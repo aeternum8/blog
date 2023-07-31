@@ -1,0 +1,31 @@
+---
+---
+
+@import "minima";
+
+body {
+    color: paleturquoise;
+    background-color: #020d19;
+}
+
+code {
+    background-color: #2a3f56;
+}
+
+a:hover {
+    color: #5fa4e3;
+}
+
+.site-title,
+.site-title:visited {
+    color: paleturquoise;
+}
+
+.site-nav .page-link {
+    color: paleturquoise;
+    line-height: 1.5;
+}
+
+p {
+    color: white;
+}
